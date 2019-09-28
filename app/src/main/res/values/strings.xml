@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Multiple Selection ListView</string>
+    <string name="ranklabel">"Rank : "</string>
+    <string name="countrylabel">"Country : "</string>
+    <string name="delete">Delete</string>
+
+</resources>
